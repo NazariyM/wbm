@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "what": "[data-content-id=0]",
+      "data": "<h3>Упражнение 2. поднятие рук</h3><video src='video/sample-4.webm'></video><p>текст для 2-го упражнения</p><a class='next-btn next-btn_red js-next-program' href='#!'>следующее упражнение</a>"
+    }
+  ]
+}

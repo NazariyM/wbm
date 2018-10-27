@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "what": "[data-content-id=0]",
+      "data": "<h3>УПРАЖНЕНИЕ 3. ВЫПАДЫ ВПЕРЕД</h3><div class='program-slider'><div class='program-slider__for'><video src='video/sample-3.mp4'></video><img data-lazy='img/program-slider-2.jpg' alt='image'><img data-lazy='img/program-slider-3.jpg' alt='image'><img data-lazy='img/program-slider-1.jpg' alt='image'><img data-lazy='img/program-slider-2.jpg' alt='image'><img data-lazy='img/program-slider-3.jpg' alt='image'><img data-lazy='img/program-slider-1.jpg' alt='image'></div><div class='program-slider__nav'><img src='img/program-slider-1-thumb.jpg' alt='image'><img src='img/program-slider-2-thumb.jpg' alt='image'><img src='img/program-slider-3-thumb.jpg' alt='image'><img src='img/program-slider-1-thumb.jpg' alt='image'><img src='img/program-slider-2-thumb.jpg' alt='image'><img src='img/program-slider-3-thumb.jpg' alt='image'><img src='img/program-slider-1-thumb.jpg' alt='image'></div></div><p>Вместе с тобой мы пройдем путь к стройному подтянутому телу. И да, имей ввиду — я не принимаю никаких отмазок. С покупкой программы ты даешь мне личное обещание не пропускать тренировки и правильно питаться!</p><a class='next-btn next-btn_red js-next-program' href='#!'>следующее упражнение</a>"
+    }
+  ]
+}
